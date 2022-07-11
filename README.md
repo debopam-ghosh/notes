@@ -1,1 +1,1 @@
-Users can amake an account and write blogs.
+Note taking app for students
